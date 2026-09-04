@@ -3,9 +3,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-`NLG.py` fine-tunes GPT-2 on highly rated fictional book plot summaries, varies decoding paramaters of temperature and top-K can align a model to generate more original output. This is tested via the semantic difference between generated texts using a self-METEOR score and ROUGE-L.
-A small usefulness test is made using brainteaser puzzles to test the originality and coherence of the answers generated.
-
+`NLG.py` tests whether fine-tuning GPT-2 on highly rated fictional book plot summaries and varying decoding paramaters of temperature and top-K can align a model to generate more original ideas. This is tested via self-METEOR and ROUGE-L for the semantic difference between generated texts and a set of baseline texts. A small usefulness test is also made using brainteaser puzzles to test the originality and coherence of the answers generated.
 
 ## Requirements
 
