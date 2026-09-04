@@ -1,4 +1,4 @@
-# NLG: Can language models generate more original ideas?
+# Can language models generate more original ideas?
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
